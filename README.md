@@ -14,14 +14,21 @@
 - ⚡ Fun fact: I love three things 1) Like to code, 2) Like to code, 3) Only like to code 😂 
 
 ### Connect with me:
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC8W9MLLVK0wZjg9DwJiyivQ)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC8W9MLLVK0wZjg9DwJiyivQ)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/prasanna-k-9b0671205/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/prasanna-k-9b0671205/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/prasanna_rdj_fan/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/prasanna_rdj_fan/)
+
+### Languages and Tools:
+
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" ></img> 
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" ></img> 
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" ></img>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" ></img> 
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" ></img> 
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" ></img> 
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" ></img> 
 
 <!--
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
@@ -31,6 +38,21 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 -->
+
+<br />
+<br />
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [🔴 TypeScript Congress 2022 LIVE | The Type of Conference Developers Need](https://www.youtube.com/watch?v=jLqZyBnno54)
+- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
+- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
+- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
+- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC8W9MLLVK0wZjg9DwJiyivQ)
 
 <!--
 **prasanna892/prasanna892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
