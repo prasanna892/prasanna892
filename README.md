@@ -1,6 +1,8 @@
 ### Hi there, I'm Prasanna - aka CodeRunner 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8W9MLLVK0wZjg9DwJiyivQ?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC8W9MLLVK0wZjg9DwJiyivQ)
+![Profile views](https://komarev.com/ghpvc/?username=prasanna892&label=Profile%20views&color=0e75b6&&style=for-the-badge)
+
 <!--
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -60,9 +62,20 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="prasanna GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prasanna892&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<summary>Language used 🗣️</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanna892&show_icons=true&theme=dark&title_color=fffafa&text_color=ffffff&locale=en&layout=compact" alt="prasanna aka coderunner" />&nbsp;<p> <br><br><br><br><br>
 
+---
+
+<summary>GitHub Stats 😎</summary>
+<p><img align="left" alt="prasanna GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prasanna892&theme=dark" /><p> <br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna892&theme=dark" alt="prasanna aka coderunner" /></p>
+
+---
+
+<summary>GitHub trophy's 🏆</summary>
+<p align="left"> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna892&theme=dark" alt="prasanna" /></a> </p>
+</a> </p>
 
 <!--
 - 🔭 I’m currently working on ...
