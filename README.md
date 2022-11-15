@@ -74,7 +74,7 @@
 ---
 
 <summary>GitHub trophy's 🏆</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna892&theme=onedark" alt="prasanna" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna892&theme=darkhub" alt="prasanna" /></a> </p>
 </a> </p>
 
 <!--
