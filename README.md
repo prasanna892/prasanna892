@@ -74,7 +74,8 @@
 ---
 
 <summary>GitHub trophy's 🏆</summary>
-<p align="left"> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna892&theme=dark" alt="prasanna" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRMYSTERY003&layout=compact&theme=algolia" alt="MRMYSTERY003" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna892&theme=dark" alt="prasanna" /></a> </p>
 </a> </p>
 
 <!--
